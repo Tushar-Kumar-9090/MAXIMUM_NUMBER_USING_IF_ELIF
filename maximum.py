@@ -3,8 +3,6 @@
 ## WAP to find Maximum among given 5 number??
 
 
-
-
 num1=int(input("Enter The 1st Number: "))
 num2=int(input("Enter The 2nd Number: "))
 num3=int(input("Enter The 3rd Number: "))
